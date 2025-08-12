@@ -83,7 +83,7 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Wed | Oct 22 | Trees                                              |
 | Fri | Oct 24 | Binary Search Trees                                |
 | Mon | Oct 27 | Red-Black Trees                                    |
-| Wed | Oct 29 | Priority Queues                                    |
+| Wed | Oct 29 | Heaps                                              |
 | Fri | Oct 31 | Compression                                        |
 | Mon | Nov 3  | Disjoint Sets                                      |
 | Wed | Nov 5  | Flex                                               |
