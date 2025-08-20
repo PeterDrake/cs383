@@ -20,7 +20,6 @@ All of the methods you need to implement are magic methods:
 
 ```python
 __init__
-__str__
 __repr__
 __add__
 __sub__
@@ -28,6 +27,8 @@ __mul__
 __truediv__
 __float__
 ```
+
+**This is a team assignment. When you are done, *one* member of your team should submit the file, including (as a comment at the top of the file) the names of everyone who contributed.**
 
 # Files
 * [test_fraction.py](../test/test_fraction.py)
@@ -65,6 +66,8 @@ Write as little code as you can to pass the first test, then move on to the next
 The greatest common divisor algorithm is helpful for reducing a fraction to lowest terms.
 
 Subtraction can be defined in terms of addition. Division can be defined in terms of multiplication.
+
+You don't have to override `__str__`, because by default `__str__` calls `__repr__`.
 
 # Optional Challenge Problems
 If you get everything working, *have saved a copy just in case*, and want an additional challenge, try some of the following:
