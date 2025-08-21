@@ -1,6 +1,8 @@
 # Overview
 In this assignment you will implement and analyze the bubble sort. There are many sorting algorithms, almost all of them more efficient than this one. I want you to have experience implementing one of them; this one is relatively simple. This assignment also gives you practice in the important skill of translating a description of an algorithm into working code.
 
+**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
+
 ## The Task
 Define a function `bubble_sort`. It takes a list as an argument and sorts that list in place (rather than returning a new list).
 

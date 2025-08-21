@@ -5,6 +5,8 @@ Define a class `HorspoolStringMatcher` that provides a method `match`. The patte
 
 `HorspoolStringMatcher` should also provide a method `_get_shift`, which takes a character and returns the shift value for that character. (The leading underscore indicates that this method is "private", as users of this class normally wouldn't access it, but the tests can call it.)
 
+**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
+
 # Files
 * [test_horspool.py](../test/test_horspool.py)
 
