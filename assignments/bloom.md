@@ -27,8 +27,8 @@ good.txt is a list of good domains.
 
 You will need the two files below, which should be in your project but not inside src. ***CONTENT WARNING: The names of some of these sites, especially on the bad list, may be deeply offensive. Such is the price of working with real-world data about the uglier part of the web. Let me know if this is a problem for you and we can arrange alternative data.***
 
-*[bad.txt](../bad.txt) download  is a list of [bad domains likely to contain malware](https://github.com/stamparm/blackbook/tree/master). <span style="color:red">***Whatever you do, don't go to any of these sites!***</span>
-*[good.txt](../good.txt) is a list of [good domains](https://dataforseo.com/free-seo-stats/top-1000-websites).
+* [bad.txt](../bad.txt) download  is a list of [bad domains likely to contain malware](https://github.com/stamparm/blackbook/tree/master). <span style="color:red">***Whatever you do, don't go to any of these sites!***</span>
+* [good.txt](../good.txt) is a list of [good domains](https://dataforseo.com/free-seo-stats/top-1000-websites).
 
 # On Working as a Team
 
