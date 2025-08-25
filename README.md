@@ -1,4 +1,4 @@
-# CS #83 Algorithm Design & Analysis
+# CS 383 Algorithm Design & Analysis
 Fall 2025
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
