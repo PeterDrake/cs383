@@ -20,7 +20,7 @@
     * `time python3 sort.py input.txt > pout`
 
 # History
-[slides]()
+[Slides]()
 
 # Test-Driven Development
 * Euclid's algorithm
