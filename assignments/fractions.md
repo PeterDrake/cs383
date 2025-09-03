@@ -77,4 +77,6 @@ If you get everything working, *have saved a copy just in case*, and want an add
 * Modify `__eq__` so that `Fraction(6, 3) == 2` and vice versa. In other words, make it so that you can compare your fractions with regular Python numbers.
 
 # What to Hand in
-Hand in your file `fraction.py`, containing your definition of the class Fraction. Be sure to include the full names of everyone who worked on the project in a comment at the top of the file.
+Hand in your file `fraction.py`, containing your definition of the class `Fraction`.
+
+**Be sure to include the full names of everyone who worked on the project in a comment at the top of the file. Along with each person's name, include the random number that they were given as feedback on the logarithms assignment.** (This is a test to make sure the feedback is getting through.)
