@@ -19,10 +19,19 @@ def draw(electorate, districts):
             if voter < w:
                 plt.plot([x[voter], x[w]],
                          [y[voter], y[w]],
-                         color='k', zorder=0)
+                         color='k', zorder=1)
     # Draw voters
+    plt.scatter(x, y, c='black', s=100, zorder=2)  # Outline
     # Yellow is the True party, purple the False party
-    plt.scatter(x, y, c=electorate.votes, zorder=0)
+    plt.scatter(x, y, c=electorate.votes, zorder=3)
+    # Draw background hexes showing who won each district
+    colors = [-1] * v
+    for district in districts:
+        winner = sum(electorate.votes[j] for j in district) > d / 2
+        for i in district:
+            colors[i] = winner
+    plt.scatter(x, y, c=colors, zorder=0, s=1200, marker='h', alpha=0.5)
+    # Final drawing info
     plt.tick_params(left=False, right=False, labelleft=False, labelbottom=False, bottom=False)
     plt.show(block=True)
     exit()
