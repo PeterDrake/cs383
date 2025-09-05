@@ -50,9 +50,8 @@ The course will progress through increasingly complex data structures:
 The major components of the course are:
 * Individual assignments that you are meant to complete on your own. You are welcome to help each other with *concepts*, but any code, writing, math, etc. should be your own.
 * Team projects that you complete with a team of 3-4 students.
-* Reading and reporting on a book about the social context of AI and machine learning. To keep discussions interesting, and to spare me the tedium of reading dozens of essays on the same book, each student will read a different book.
 
-There are no exams. In place of a final exam, each student will give a very short (5 minute) presentation on the book they read. This will be accompanied by a class discussion.
+There are no exams. In place of a final exam, we will have a competition between the Scrabble-playing programs written by students in this class.
 
 ## Schedule
 Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind,
