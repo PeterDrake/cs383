@@ -1,3 +1,7 @@
+# Teams
+* Introduce teams
+* Start work on Fractions project
+
 # Plotting data
 * See [plot_asymptotic.py](../src/plot_asymptotic.py)
 * Plot $n^2$ from 1 to 100
@@ -13,7 +17,3 @@
 * `__add__`
 * `__repr__`
 * See [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/oop/magic.md) for more magic methods
-
-# Teams
-* Introduce teams
-* Start work on Fractions project
