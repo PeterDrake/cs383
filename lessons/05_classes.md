@@ -1,5 +1,7 @@
-# More Plotting Data
-* [plot_asymptotic.py](../src/plot_asymptotic.py)
+# Plotting data
+* See [plot_asymptotic.py](../src/plot_asymptotic.py)
+* Plot $n^2$ from 1 to 100
+* Add a second line for n
 * Gather and plot data on three different implementation of fibo for n up 10
 * Again through 20
 

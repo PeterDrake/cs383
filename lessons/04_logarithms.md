@@ -19,9 +19,4 @@
 * TPS: How many multiplications assuming $n$ is a power of 2?
   * $\log_2 n + 2$, because we divide $n$ in half at each step
 
-# Plotting data
-* See [plot_asymptotic.py](../src/plot_asymptotic.py)
-* Plot $n^2$ from 1 to 100
-* Add a second line for n
-
 If time left, work on logarithms assignment
