@@ -18,5 +18,6 @@
 * Class: implement it
 * TPS: How many multiplications assuming $n$ is a power of 2?
   * $\log_2 n + 2$, because we divide $n$ in half at each step
+  * The last 2 could be avoided by adding a special base case for $n = 1$
 
 If time left, work on logarithms assignment
