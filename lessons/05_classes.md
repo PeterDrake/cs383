@@ -1,6 +1,4 @@
-# Teams
-* Introduce teams
-* Start work on Fractions project
+Introduce teams
 
 # Plotting data
 * See [plot_asymptotic.py](../src/plot_asymptotic.py)
@@ -17,3 +15,5 @@
 * `__add__`
 * `__repr__`
 * See [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/oop/magic.md) for more magic methods
+
+Start work on Fractions project
