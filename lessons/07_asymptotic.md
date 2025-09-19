@@ -1,11 +1,11 @@
 # Polynomial evaluation
 * Class: implement obvious algorithm
 * How many multiplications?
-* Horner’s rule  
-$ax^3 + bx^2 + cx + d$  
-$= x(ax^2 +bx + c) + d$  
-$= x(x(ax + b) + c) + d$  
-$ = x(x(x(a) + b) + c) + d$  
+  * Horner’s rule  
+  $ax^3 + bx^2 + cx + d$  
+  $= x(ax^2 +bx + c) + d$  
+  $= x(x(ax + b) + c) + d$  
+  $= x(x(x(a) + b) + c) + d$  
 * Implement
 * How many multiplications?
 # [Video on order notation](https://www.youtube.com/watch?v=w7-6h64HSQ8)
