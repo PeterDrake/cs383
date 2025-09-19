@@ -9,7 +9,7 @@
 * Why?
   * We don’t want -0
     * But floating point types have it
-    * Arithmetic still works, namely a - b == a + -b
+  * Arithmetic still works, namely a - b == a + -b
   * Demonstrate 7 - 3 with four bits
   * Python doesn't normally show you this, but you can see it: `bin(-6 & 0b11111111)`
     * This works because -6 == ~5
