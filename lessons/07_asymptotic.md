@@ -12,8 +12,8 @@
 * Q&A
 # Analyze orders of some algorithms we’ve seen
 ## fibo
-* Brute force algorithm is in $\Theta(n)$
 * Obvious recursive algorithm is in $\Theta(f(n)) = \Theta(\phi^n)$, where $\phi$ is roughly 1.618
+* Iterative algorithm is in $\Theta(n)$
 * Closed form algorithm is in $\Theta(1)$
 ## gcd
 * Brute force algorithm is in $O(\min(m, n)) = O(m + n)$

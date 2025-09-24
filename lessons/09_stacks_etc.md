@@ -9,7 +9,7 @@
 * Concept
 * Python lists as queues
   * Analysis
-* collections.dequeue
+* collections.deque
   * Analysis
 
 # Sets
