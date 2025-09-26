@@ -21,7 +21,6 @@
   * Could be improved slightly by not writing the key being inserted until its place is found; left as an exercise
 * TPS: Analysis
   * $n^2$ worst and average, but $n$ best
-* This is the best of these three
 * Good to use when arrays are likely to be nearly sorted or (because it’s simple) very short
 
 If time, play with visualizations from
