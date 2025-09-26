@@ -12,6 +12,7 @@
   * `add_at`
     * Without considering expansion: best, worst, average
     * Expansion: amortized analysis
+      * You still have to find the item, but the expansion time itself improves
   * TPS: Analyze `remove_at`
 
 # Linked Structures

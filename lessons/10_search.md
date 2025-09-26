@@ -2,7 +2,7 @@
 * Idea
 * TPS: Best, average, amortized, and worst-case analysis
 * TPS: Does sorting the array help?
-* A little; by stopping early you could gain a factor of 2 in speed if key not present
+  * A little; by stopping early you could gain a factor of 2 in speed if key not present
 
 # Binary search (divide and conquer)
 * Idea -- requires that the array be sorted
