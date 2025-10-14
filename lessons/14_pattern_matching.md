@@ -25,11 +25,11 @@
         * w: 8, o: 6, d: 5, c:1, h: 3, u: 2
       * Using this table, look for “woodchuck” in “How much wood would a woodchuck chuck if a woodchuck could chuck wood?”
     * Analysis:
-      * Still $\Theta(mn) in the worst case
+      * Still $\Theta(mn)$ in the worst case
         * This happens when searching for `azzzzz` in a string of `z`s
           * You can only shift over 1 when looking at a `z`, but you have to search back through the entire pattern to realize that the pattern didn’t match here
           * The more complicated Boyer-Moore algorithm improves on this
         * Clearly faster than brute force as it avoids many comparisons
-        * $\Theta(n) on average for random texts
+        * $\Theta(n)$ on average for random texts
 
 * Practical Python solution: find method on strings

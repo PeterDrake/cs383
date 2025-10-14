@@ -27,22 +27,3 @@
 * … but how to delete safely?
   * Chaining: delete from chain
   * Linear probing: reinsert all items later in probe sequence
-
-# Hash codes
-* Problem: what if your key isn't a nonnegative integer?
-* Hash code
-  * Found with hash, composed with the table's hash function
-* Some objects cannot be hashed
-  * Immutable objects are safe
-    * Numbers, strings, tuples
-  * Generally mutable objects are not, but there are exceptions (like functions)
-    * The part used to compute the hash code has to be immutable
-* Defining a `__hash__` method for your own class:
-  * By default, it returns the address where the object lives in memory
-  * `==` should imply same hash, but not necessarily vice versa
-    * Default __hash__ is consistent with default __eq__
-  * If you override one, override both
-    * Otherwise multiple equal objects could end up in the table
-  * __le__ and so forth should also be consistent if your object is comparable
-  * To mark your class as unhashable, define __eq__ but not __hash__
-* Example: write a `__hash__` method for our Vector class
