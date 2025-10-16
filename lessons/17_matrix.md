@@ -7,7 +7,7 @@
 # Matrix multiplication
 * Motivation: state machine modeling (e.g., pandemics), neural networks, graphics
 * Idea / example
-  * RC joks
+  * RC joke
 * TPS: What constraints are there on the sizes of the matrices?
 * Everyone individually implement obvious brute force algorithm for square matrix
 * Analysis: $n^3$, where $n$ is width of matrix
