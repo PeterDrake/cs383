@@ -1,4 +1,4 @@
-**Bring Levitin**
+**Bring Levitin, RC can**
 
 # Dot product
 * Idea
