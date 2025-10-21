@@ -16,7 +16,7 @@
   * TPS:
     * For height $h$, $h + 1 <= n <= 2^{h+1} - 1$
     * For $n$ nodes, $\lceil log_2(n+1) -1 \rceil <= h <= n - 1$
-      * $\lceil log2(n+1) -1 \rceil = floor(log_2(n))$; the latter is simpler but doesn't work if if $n = 0$
+      * $\lceil log_2(n+1) -1 \rceil = \lfloor{log_2(n)}\rfloor$; the latter is simpler but doesn't work if if $n = 0$
   * Takeaway: $n \in O(2^h)$, $h \in \Omega(log n)$
 * Implementation as nodes (mob program)
   * Internal `Node` class within `BinaryTree` class
