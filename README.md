@@ -82,10 +82,10 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Wed | Oct 22 | Trees                                              |
 | Fri | Oct 24 | Binary Search Trees                                |
 | Mon | Oct 27 | Red-Black Trees                                    |
-| Wed | Oct 29 | Heaps                                              |
-| Fri | Oct 31 | Compression                                        |
-| Mon | Nov 3  | Disjoint Sets                                      |
-| Wed | Nov 5  | Flex                                               |
+| Wed | Oct 29 | Flex                                               |
+| Fri | Oct 31 | Heaps                                              |
+| Mon | Nov 3  | Compression                                        |
+| Wed | Nov 5  | Disjoint Sets                                      |
 | Fri | Nov 7  | Graphs                                             |
 | Mon | Nov 10 | Dijkstra's Algorithm                               |
 | Wed | Nov 12 | Flex                                               |
