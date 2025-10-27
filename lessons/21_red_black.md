@@ -12,7 +12,7 @@
   * No node has two red links connected to it (up or down)
   * Every path from the root to null has the same number of black links
   * Red links lean left
-  * Some sources don't include this, but it makes code simpler
+    * Some sources don't include this, but it makes code simpler
 
 ## Analysis
 * Consider the shortest path to a leaf. The tree including that level and above is perfect and contains $n$ nodes or fewer. The length of the longest path within this part of the tree has length no more than $\lg n$. No path in the full tree has a path more than twice this long. The worst case is therefore $O(\log n)$. The longest path can't have length less than $\lg n$ (as it would in a complete tree), so the worst case is also $\Omega(\log n)$ and therefore $\Theta(\log n)$. 
