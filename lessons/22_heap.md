@@ -40,7 +40,7 @@
     * This takes linear time (proof omitted)
 * Repeatedly delete
   * Each time this moves the largest element to rightmost slot in the heap, which sorts things
-* This takes time in $O(n \log n)$ because of the time to delete, and $\Omega(n \log n)$ by the lower bound on comparison sorts, therefore $\Theta(n \log n)$ time in the worst case. Also can be shown to be linearithmic on average
+* This takes time in $O(n \log n)$ because of the time to delete, and $\Omega(n \log n)$ by the lower bound on comparison sorts, therefore $\Theta(n \log n)$ time in the worst case. Also can be shown to be linearithmic on average.
 * In place, not stable, not as fast as quicksort in practice
 
 ## Order statistics
