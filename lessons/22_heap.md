@@ -46,5 +46,5 @@
 ## Order statistics
 * TPS: How would you find the $k$ smallest elements in an array?
 
-## Python in practicer
+## Python in practice
 * In Python, `queue.PriorityQueue` is a min priority queue
