@@ -87,8 +87,8 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Mon | Nov 3  | Compression                                        |
 | Wed | Nov 5  | Disjoint Sets                                      |
 | Fri | Nov 7  | Graphs                                             |
-| Mon | Nov 10 | Dijkstra's Algorithm                               |
-| Wed | Nov 12 | Flex                                               |
+| Mon | Nov 10 | Flex                                               |
+| Wed | Nov 12 | Dijkstra's Algorithm                               |
 | Fri | Nov 14 | The Floyd-Warshall Algorithm                       |
 | Mon | Nov 17 | Flex                                               |
 | Wed | Nov 19 | Topological Sorting                                |
@@ -97,7 +97,7 @@ instructor illness, inclement weather, etc. Note the links to class notes above.
 | Wed | Nov 26 | Flex                                               |
 | Mon | Dec 1  | Minimum Spanning Trees                             |
 | Wed | Dec 3  | Flex                                               |
-| Fri | Dec 5  | Closest Pairs                                      |
-| Mon | Dec 8  | Flex                                               |
+| Fri | Dec 5  | Flex                                               |
+| Mon | Dec 8  | Closest Pairs                                      |
 | Wed | Dec 10 | Review                                             |
 | Tue | Dec 16 | Final presentations and Scrabble smackdown, 1-4 PM |
