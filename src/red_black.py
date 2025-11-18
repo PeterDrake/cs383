@@ -28,7 +28,10 @@ class RedBlackBST:
         return f(self.root)
 
     def _is_red(self, node):
-        return (node is not None) and node.color
+        """
+        Returns True iff node exists and is red.
+        """
+        return (node is not None) and (node.color == self._Node.RED)
 
     def _rotate_left(self, node):
         x = node.right

@@ -12,7 +12,7 @@ Fall 2025
 * [Make an appointment to see me](https://calendar.app.google/qegvZRaPJ5mScdCz5) or drop by my office
 
 ## Course Text
-Roughgarden, [*Algorithms Illuminate                          d: Omnibus Edition*](https://www.algorithmsilluminated.org/)
+Roughgarden, [*Algorithms Illuminated: Omnibus Edition*](https://www.algorithmsilluminated.org/)
 ### Suggested Texts
 No readings will be assigned, but if you want another take on a topic or to read more deeply, here is one option:  
 
