@@ -4,7 +4,7 @@ class Digraph:
         self.adj = [[] for _ in range(v)]
 
     def add_edge(self, v, w):
-        self.adj[v].add(w)
+        self.adj[v].append(w)
 
     def neighbors(self, v):
         return self.adj[v]

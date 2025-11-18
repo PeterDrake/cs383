@@ -25,7 +25,7 @@
   * Good for “can you get there from here”
   * Have to keep track of already-visited vertices
   * May have to try starting from each vertex in case of an unconnected graph
-  * General technique: class for each algorithm, where constructor does the work
+  * General technique: class for each algorithm, where initializer does the work
     * [dfs.py](../src/dfs.py)
 * BFS
   * Good for finding shortest paths
