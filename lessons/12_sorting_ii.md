@@ -2,7 +2,8 @@
 
 # Mergesort
 * Idea: cut in half, recursively sort, merge
-  * Playing card demonstration
+  * Playing card demonstration (normal-sized cards)
+    * Demonstrate merge process and do final merge on document projector
   * Here the recombining is the hard part
 * Implementation
   * `sort` calls `f`, which is recursive and calls `merge`
