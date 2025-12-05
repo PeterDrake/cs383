@@ -8,7 +8,7 @@ This is a chance to apply your algorithm design skills to an important real-worl
 
 This assignment asks you to devise an algorithm to gerrymander a two-party electorate to favor a particular party. For simplicity, the voters are placed in a grid of hexagons. There will be d contiguous districts, each containing d voters.
 
-You must create a class `Gerrymanderer` containing a method `gerrymander` that, given an `Electorate` (see the Files section below) and a party (a bool), returns a list of districts. Each district is a list of voters (which are integers in $[0, d^2)$) in that district.
+You must create a class `Gerrymanderer` containing a method `gerrymander` that, given an `Electorate` (see the Files section below) and a party (a bool), returns a list of districts. Each district is a list of voters (which are integers in $[0, d^2)$ ) in that district.
 
 ## Ethical Note
 Gerrymandering is antithetical to the central principle of electoral democracy: that every voter has equal power. This simulation is meant to explore the algorithmic issues related to gerrymandering and, tangentially, the surprisingly strong effect of gerrymandering. Computer scientists should not participate in actual efforts to corrupt the democratic process.

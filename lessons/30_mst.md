@@ -13,7 +13,7 @@
 * Idea
   * Start with no edges
   * Repeatedly add "safe" edges until you have a MST
-    * (safe means the tree you always have a subset of the edges in the MST)
+    * (safe means that you always have a subset of the edges in the MST)
 * The cheapest edge that connects two pieces not already connected must be in the MST
   * Otherwise, adding this cheap edge at the end would form a cycle, and removing some other edge in that cycle would create a cheaper MST
 
